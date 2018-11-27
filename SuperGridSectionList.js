@@ -80,7 +80,7 @@ class SuperGridSectionList extends Component {
     }
     const itemContainerStyle = {
       flexDirection: 'column',
-      justifyContent: 'center',
+      justifyContent: 'flex-start',
       width: containerDimension,
       paddingRight: spacing,
     };
